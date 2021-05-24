@@ -1,6 +1,6 @@
 ## "Find the Real News."
 
-#### This is a "Find the Real News" contest held by NH Investment & Securities. 
+#### This is a "Find the Real News" contest held by NH 투자증권.
 
 ⭐Process
 Simple preprocessing and models show high performance.
